@@ -1,0 +1,2 @@
+# leetcode
+every day leetcode
